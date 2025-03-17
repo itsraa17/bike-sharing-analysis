@@ -1,4 +1,4 @@
 # bike-sharing-analysis
 ---
 
-![Dashboard Preview](image/dashboard_preview.png)
+![Dashboard Preview](bike-sharing-analysis/image/dashboard-preview.png)
